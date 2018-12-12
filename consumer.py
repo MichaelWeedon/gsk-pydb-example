@@ -48,7 +48,7 @@ class ConsumerService:
             # Load connection parameters
             params = config()
      
-            # Connectonnect to the PostgreSQL server
+            # Connect to the PostgreSQL server
             self.conn = psycopg2.connect(**params)
      
             # Create a cursor
