@@ -1,0 +1,6 @@
+README.md
+setup.py
+gsk_pydb_example.egg-info/PKG-INFO
+gsk_pydb_example.egg-info/SOURCES.txt
+gsk_pydb_example.egg-info/dependency_links.txt
+gsk_pydb_example.egg-info/top_level.txt
